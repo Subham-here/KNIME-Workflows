@@ -1,7 +1,7 @@
 # RFM (Recency, Frequency and Monetary Value) Segmentation
 ## Project Overview
 
-The objective of this project was to do a segmentation of the customers based on transactional data which was for a Online Retail Store. Here I have done RFMM Segmentation of the customers on the basis of which we can create loyalty programs for our customers which can be helpful in efficiently utlising our marketing expense. 
+The objective of this project was to do a segmentation of the customers based on transactional data which was for a Online Retail Store. Here I have done RFM Segmentation of the customers on the basis of which we can create loyalty programs for our customers which can be helpful in efficiently utlising our marketing expense. 
 
 ![image](https://github.com/Subham-here/KNIME-Workflows/assets/170924246/838a181e-ceb2-4270-ab0a-12f60626625f)
 
